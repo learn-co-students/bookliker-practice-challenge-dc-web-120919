@@ -78,7 +78,6 @@ function likeUserHandler(book){
 }
 
 
-
 function clearDiv(div){
     while(div.firstChild){
         div.firstChild.remove()
